@@ -1,0 +1,71 @@
+.outerdiv{
+    border: 3px solid  red;
+    width:50%;
+    margin:auto;
+    height:600px;
+    position: relative;
+
+}
+.h1{
+    border: 3px solid  red;
+    height:10%;
+    margin:auto;
+    width:600px;
+    position:relative;
+    top:5%;
+    padding:1px;
+
+}
+.p{
+    border: 3px solid  red;
+    height:16%;
+    margin:auto;
+    width:600px;
+    position:relative;
+    top:10%;
+    padding:5px;
+
+}
+.list{
+    border: 3px solid  red;
+    height:13%;
+    margin:auto;
+    width:650px;
+    position:relative;
+    top:13%;
+    padding:0px;
+}
+ul{
+    position: relative;
+    left:-5%;
+    width:600px;
+}
+.l1{
+    border: 3px solid  red;
+    height:6%;
+    margin:auto;
+   
+    position:relative;
+    top:14%;
+    padding:1px;  
+}
+.l2{
+    border: 3px solid  red;
+    height:6%;
+    margin:auto;
+    
+    position:relative;
+    top:20%;
+    padding:1px;  
+}
+.pd{
+    margin:auto;
+    width:600px;
+    position:relative;
+    top:18%;
+    padding:5px;
+}
+button,a{
+    border: 3px solid  red;
+    height:18%;
+}
