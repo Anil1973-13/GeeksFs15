@@ -1,71 +1,24 @@
 .outerdiv{
-    border: 3px solid  red;
-    width:50%;
-    margin:auto;
-    height:600px;
-    position: relative;
-
+    width: 500px;
+    height: 500px;
+    border: 2px solid red;
+ margin:auto
 }
-.h1{
-    border: 3px solid  red;
-    height:10%;
-    margin:auto;
-    width:600px;
-    position:relative;
-    top:5%;
-    padding:1px;
-
+.h1,.p,.list{
+    border: 2px solid red;
+    width: 450px;
+    padding: 5px;
+    margin: 20px auto;
 }
-.p{
-    border: 3px solid  red;
-    height:16%;
-    margin:auto;
-    width:600px;
-    position:relative;
-    top:10%;
-    padding:5px;
-
-}
-.list{
-    border: 3px solid  red;
-    height:13%;
-    margin:auto;
-    width:650px;
-    position:relative;
-    top:13%;
-    padding:0px;
-}
-ul{
-    position: relative;
-    left:-5%;
-    width:600px;
-}
-.l1{
-    border: 3px solid  red;
-    height:6%;
-    margin:auto;
-   
-    position:relative;
-    top:14%;
-    padding:1px;  
-}
-.l2{
-    border: 3px solid  red;
-    height:6%;
-    margin:auto;
-    
-    position:relative;
-    top:20%;
-    padding:1px;  
-}
-.pd{
-    margin:auto;
-    width:600px;
-    position:relative;
-    top:18%;
-    padding:5px;
+.l1,.l2{
+    border: 2px solid red;
+    width: 400px;
+    padding: 5px;
+    margin:0px -15px;
 }
 button,a{
     border: 3px solid  red;
-    height:18%;
+}
+.pd{
+    margin-left: 20px;
 }
