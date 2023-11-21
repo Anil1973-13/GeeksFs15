@@ -1,3 +1,6 @@
+*{
+    box-sizing: content-box;
+}
 .outerdiv{
     width: 500px;
     height: 500px;
